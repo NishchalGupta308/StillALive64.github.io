@@ -1,0 +1,19 @@
+body {
+	background-image:url(https://images-na.ssl-images-amazon.com/images/I/91bUJjlbJ3L._SL1500_.jpg);
+	background-size: cover;
+}
+h1 {
+	color: white;
+	text-align: center;
+	border: 5px block purple;
+	cursor: pointer;
+	line-height: 20px;
+}
+p {
+	color: black;
+	font-size: 200%;
+}
+li {
+	list-style: none;
+	display:linear-block;
+}

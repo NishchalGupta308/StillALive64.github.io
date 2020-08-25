@@ -1,0 +1,29 @@
+p{
+	font-family: 'Dancing Script', cursive;
+	line-height: 40px;
+	font-size: 200%
+}
+h1{
+font-family: 'Dancing Script', cursive;
+	font-size: 3en;
+	border-bottom: 2px solid Pink;
+	border-right: 2px solid pink;
+	width:400px;
+	text-align:center;
+	box-shadow:4px 4px 5px #888888;
+}
+
+.container{
+	display: flex;
+	justify-content: center ;
+	flex-wrap: wrap;
+}	
+img{
+	width: 450px;
+	height: 300px;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+.coolTitle
